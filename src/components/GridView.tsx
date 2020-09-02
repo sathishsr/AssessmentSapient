@@ -51,7 +51,7 @@ const GridView: FC<IProps> = ({searchResults, navigation}) => {
       <FlatList
         data={searchResults}
         renderItem={renderItem}
-        keyExtractor={item => item.artistName.toString()}
+        keyExtractor={(_, index) => index.toString()}
         numColumns={3}
       />
     </View>
