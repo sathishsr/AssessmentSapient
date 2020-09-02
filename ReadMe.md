@@ -4,9 +4,11 @@ An application used to search songs, albums using iTunes search API
 
 ## Project Screen Shot(s)
 
-[Alt text](/relative/path/to/img.jpg?raw=true)
+![Search Page](https://github.com/sathishsr/AssessmentSapient/blob/master/ss_1.png)
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![Search Page with result](https://github.com/sathishsr/AssessmentSapient/blob/master/ss_2.png)
+
+![Detail Page](https://github.com/sathishsr/AssessmentSapient/blob/master/ss_3.png)
 
 ## Installation and Setup Instructions
 
