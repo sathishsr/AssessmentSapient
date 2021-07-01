@@ -1,4 +1,4 @@
-## AssessmentSapient
+## RNPlayer
 
 An application used to search songs, albums using iTunes search API
 
